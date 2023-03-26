@@ -1,0 +1,7 @@
+name: GertvyLib
+version: '${project.version}'
+main: dreamimagination.gertvylib.GertvyLib
+api-version: 1.19
+authors: [ Gertvy ]
+description: AntiRNG
+website: me.gertvy.today
